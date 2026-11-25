@@ -1,5 +1,5 @@
 # 19xx - M632 - P001 - Title Page.jpg
-Wiki page: [M632](../../../PAGES/M632.md)
+Wiki page: [M632](../../../../PAGES/M632.md)
 
 
 - **Year:** unknown (unknown)
@@ -37,7 +37,7 @@ OESIGN AND MANUFACTURE OF PROFESSIONAL AUDIO EQUIPMENT
 
 ```json
 {
- "file": "Modules/POWER/M632/19xx - M632 - P001 - Title Page.jpg",
+ "file": "Modules/POWER/M632/MANUALS/19xx - M632 - P001 - Title Page.jpg",
  "sha256": "7000cc38bf40ba60aafabd22d5b8275dfb802e6b4fc16ff50339504b138e7378",
  "kind": "module",
  "models": [
