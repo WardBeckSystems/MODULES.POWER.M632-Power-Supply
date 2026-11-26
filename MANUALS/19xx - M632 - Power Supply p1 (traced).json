@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/POWER/M632/MANUALS/19xx - M632 - Power Supply.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/b351369048d64ab9-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1524, 2000],
+  "mm": [329.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "8"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.7, 3.7, 322.6, 421.9],
+ "outlines": {
+  "line": {"rings": 29, "straight": {"n": 757, "mm": 2678.6}, "curved": {"n": 96, "mm": 148.2}},
+  "text": {"rings": 135, "straight": {"n": 1695, "mm": 2302.1}, "curved": {"n": 393, "mm": 643.8}},
+  "tb": {"rings": 2, "straight": {"n": 109, "mm": 292.6}, "curved": {"n": 9, "mm": 18.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [117.2, 405.0, 282.0, 414.6], "text": "WARD-BECK SYSteMS LTD_"},
+   {"mm": [47.9, 396.8, 281.5, 410.7], "text": "WBS 841 PAOGAESS AVENUE; SCARBOAOUGH; ONTARIO M1h2x4"},
+   {"mm": [117.2, 393.8, 170.1, 399.1], "text": "TeLeX; 0b5-25399"},
+   {"mm": [205.8, 393.2, 280.7, 398.4], "text": "TELEPHONE: 416/438-8550"},
+   {"mm": [143.8, 242.0, 190.2, 254.0], "text": "M632"},
+   {"mm": [136.0, 228.6, 197.8, 237.0], "text": "POWER SUPPLY"},
+   {"mm": [72.3, 2.6, 248.7, 9.5], "text": "DESIGN AND MANUFACTURE Of PROFESSIONAL AUDIO EQUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [41.4, 388.1, 262.5, 423.4],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSteMS LTD_", "WBS 841 PAOGAESS AVENUE; SCARBOAOUGH; ONTARIO M1h2x4", "TeLeX; 0b5-25399", "TELEPHONE: 416/438-8550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–323 mm across, 4–422 mm up",
+  "- **Outlines:** line 29 rings, 757 straight (2,679 mm) / 96 curved (148 mm); text 135 rings, 1,695 straight (2,302 mm) / 393 curved (644 mm); tb 2 rings, 109 straight (293 mm) / 9 curved (18.0 mm)",
+  "- **Words (OCR):** 11 in 7 lines: WARD-BECK SYSteMS LTD_ · WBS 841 PAOGAESS AVENUE; SCARBOAOUGH; ONTARIO M1h2x4 · TeLeX; 0b5-25399 · TELEPHONE: 416/438-8550 · M632 · POWER SUPPLY · DESIGN AND MANUFACTURE Of PROFESSIONAL AUDIO EQUIPMENT",
+  "- **Title block:** (41, 388)–(262, 423) mm: WARD-BECK SYSteMS LTD_ · WBS 841 PAOGAESS AVENUE; SCARBOAOUGH; ONTARIO M1h2x4 · TeLeX; 0b5-25399 · TELEPHONE: 416/438-8550"
+ ]
+}

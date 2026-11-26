@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/POWER/M632/SCHEMATICS/19xx - 632-06-002.jpg",
+ "version": 1,
+ "trace": "_traces/95a92721920b9ac6.svg",
+ "sheet": {
+  "number": "B 632-06-002",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [900, 607],
+  "mm": [431.8, 291.2],
+  "mm_per_px": 0.47978
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.4, 0.0, 431.6, 283.5],
+ "outlines": {
+  "line": {"rings": 621, "straight": {"n": 4296, "mm": 13414.4}, "curved": {"n": 771, "mm": 1693.5}},
+  "text": {"rings": 20, "straight": {"n": 111, "mm": 177.5}, "curved": {"n": 35, "mm": 75.0}}
+ },
+ "circles": [
+  {"c": [403.2, 13.2], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [310.4, 43.6], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [362.7, 40.3, 369.9, 42.8], "w": 7.2, "h": 2.5, "from": "ring"},
+  {"mm": [425.6, 40.3, 431.3, 42.7], "w": 5.8, "h": 2.4, "from": "ring"},
+  {"mm": [373.3, 31.5, 404.0, 34.7], "w": 30.7, "h": 3.1, "from": "ring"},
+  {"mm": [339.7, 9.1, 361.3, 13.0], "w": 21.6, "h": 3.8, "from": "ring"},
+  {"mm": [340.2, 9.6, 345.9, 12.0], "w": 5.8, "h": 2.4, "from": "ring"},
+  {"mm": [423.0, 1.4, 425.1, 4.8], "w": 2.0, "h": 3.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [146.8, 251.9, 157.4, 255.6], "text": "CRC"},
+   {"mm": [19.7, 138.2, 44.6, 144.0], "text": "9-104 Pcb"},
+   {"mm": [345.0, 29.7, 368.0, 35.6], "text": "WBS"},
+   {"mm": [380.5, 1.0, 405.4, 6.8], "text": "632-06-00?"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout B 632-06-002, size B 432 × 291 mm, 900 × 607 px traced (0.480 mm/px)",
+  "- **Ink extent:** 2–432 mm across, 0–284 mm up",
+  "- **Outlines:** line 621 rings, 4,296 straight (13,414 mm) / 771 curved (1,694 mm); text 20 rings, 111 straight (178 mm) / 35 curved (75.0 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.7 @ (403.2, 13.2), r 1.6 @ (310.4, 43.6)",
+  "- **Closed boxes:** 6",
+  "- **Words (OCR):** 4 in 4 lines: CRC · 9-104 Pcb · WBS · 632-06-00?"
+ ]
+}

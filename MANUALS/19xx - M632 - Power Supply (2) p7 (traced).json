@@ -1,0 +1,77 @@
+{
+ "drawing": "Modules/POWER/M632/MANUALS/19xx - M632 - Power Supply (2).pdf",
+ "page": 7,
+ "version": 1,
+ "trace": "_traces/4b89a54388838109-p7.svg",
+ "sheet": {
+  "number": "632-06-002",
+  "title": "Component Layout Scall Issui",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1348],
+  "mm": [431.8, 291.0],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "7", "pages": "8"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.8, -0.1, 431.5, 285.0],
+ "outlines": {
+  "line": {"rings": 781, "straight": {"n": 8502, "mm": 15204.5}, "curved": {"n": 1466, "mm": 1695.9}},
+  "text": {"rings": 105, "straight": {"n": 886, "mm": 788.2}, "curved": {"n": 323, "mm": 383.7}},
+  "tb": {"rings": 14, "straight": {"n": 164, "mm": 191.5}, "curved": {"n": 39, "mm": 41.8}}
+ },
+ "circles": [
+  {"c": [243.4, 223.5], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [156.0, 253.1], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [195.0, 254.0], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [21.3, 141.1], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [380.2, 39.7, 423.8, 43.7], "w": 43.6, "h": 3.9, "from": "ring", "words": ["II(VISIOOI"], "in_title_block": true},
+  {"mm": [362.1, 39.7, 370.7, 43.6], "w": 8.6, "h": 3.9, "from": "ring", "in_title_block": true},
+  {"mm": [371.1, 39.7, 379.6, 43.6], "w": 8.4, "h": 3.9, "from": "ring", "in_title_block": true},
+  {"mm": [339.6, 8.9, 361.6, 13.0], "w": 22.0, "h": 4.1, "from": "ring"}
+ ],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [123.7, 268.6, 132.6, 271.5], "text": "Cl0,"},
+   {"mm": [2.8, 217.2, 8.0, 220.3], "text": "PZ"},
+   {"mm": [313.5, 121.8, 324.5, 124.6], "text": "W10l"},
+   {"mm": [308.1, 90.9, 320.8, 94.0], "text": "OSIOI"},
+   {"mm": [388.8, 50.3, 407.0, 58.2], "text": "ps"},
+   {"mm": [378.7, 40.2, 408.3, 50.2], "text": "BS II(VISIOOI"},
+   {"mm": [304.4, 41.9, 313.5, 45.0], "text": "FIOI"},
+   {"mm": [425.8, 39.9, 432.2, 42.6], "text": "APP."},
+   {"mm": [341.8, 29.4, 403.7, 37.3], "text": "(VVBS] WA~"},
+   {"mm": [340.5, 22.9, 348.9, 25.5], "text": "DRN.."},
+   {"mm": [359.3, 20.3, 410.4, 27.2], "text": "tp M632/M632A"},
+   {"mm": [340.3, 17.3, 347.4, 19.9], "text": "ENG.•"},
+   {"mm": [353.0, 14.7, 371.1, 20.9], "text": "ht"},
+   {"mm": [384.1, 15.5, 410.4, 19.1], "text": "POWEll SUI'l'lY"},
+   {"mm": [340.5, 13.8, 347.2, 16.5], "text": "CKO."},
+   {"mm": [378.0, 10.4, 416.7, 14.0], "text": "COMPONENT LAYOUT"},
+   {"mm": [346.1, 5.2, 354.3, 7.8], "text": "SCALl"},
+   {"mm": [381.5, 1.7, 406.5, 5.3], "text": "632-06-002_"},
+   {"mm": [420.4, 5.2, 427.7, 7.8], "text": "ISSUI"}
+  ]
+ },
+ "title_block": {
+  "mm": [331.7, 11.4, 431.8, 48.4],
+  "from": "title-block words (training set)",
+  "text": ["BS II(VISIOOI", "APP.", "(VVBS] WA~", "DRN..", "tp M632/M632A", "ENG.•", "ht", "POWEll SUI'l'lY", "CKO.", "COMPONENT LAYOUT"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 632-06-002, size B (assumed) 432 × 291 mm, 2000 × 1348 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–432 mm across, 0–285 mm up",
+  "- **Outlines:** line 781 rings, 8,502 straight (15,204 mm) / 1,466 curved (1,696 mm); text 105 rings, 886 straight (788 mm) / 323 curved (384 mm); tb 14 rings, 164 straight (192 mm) / 39 curved (41.8 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 1.5 @ (243.4, 223.5), r 1.5 @ (156.0, 253.1), r 1.5 @ (195.0, 254.0), r 1.4 @ (21.3, 141.1)",
+  "- **Closed boxes:** 4 (3 in the title block)",
+  "- **Words (OCR):** 24 in 19 lines: Cl0, · PZ · W10l · OSIOI · ps · BS II(VISIOOI · FIOI · APP. · (VVBS] WA~ · DRN.. · tp M632/M632A · ENG.•",
+  "- **Title block:** (332, 11)–(432, 48) mm: BS II(VISIOOI · APP. · (VVBS] WA~ · DRN.. · tp M632/M632A · ENG.• · ht · POWEll SUI'l'lY · CKO. · COMPONENT LAYOUT"
+ ]
+}

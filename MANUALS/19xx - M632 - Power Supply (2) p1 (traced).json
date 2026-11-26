@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/POWER/M632/MANUALS/19xx - M632 - Power Supply (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/4b89a54388838109-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1524, 2000],
+  "mm": [329.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "8"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.7, 3.7, 322.6, 429.0],
+ "outlines": {
+  "line": {"rings": 100, "straight": {"n": 1745, "mm": 3939.2}, "curved": {"n": 315, "mm": 512.6}},
+  "text": {"rings": 68, "straight": {"n": 862, "mm": 1274.4}, "curved": {"n": 204, "mm": 364.3}}
+ },
+ "circles": [{"c": [143.8, 233.1], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [274.1, 408.3, 278.5, 411.7], "w": 4.4, "h": 3.5, "from": "ring"}],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [116.6, 405.7, 278.9, 413.1], "text": "WARD-BECK SYSTE MS LTD"},
+   {"mm": [40.4, 394.2, 278.7, 411.0], "text": "[W'El5) PI'ICGl'I!SII_...... ~ONT........c -eeeo"},
+   {"mm": [268.8, 399.6, 278.1, 403.7], "text": "2)(.A"},
+   {"mm": [116.6, 394.9, 168.6, 399.0], "text": "\"TE.EX:08!5-1la:JiIIlI"},
+   {"mm": [144.4, 241.4, 188.7, 251.7], "text": "M632"},
+   {"mm": [136.7, 228.6, 198.4, 235.1], "text": "POWER SUPPLY"},
+   {"mm": [273.1, 64.1, 293.6, 73.0], "text": "ps"},
+   {"mm": [261.9, 52.7, 283.5, 64.0], "text": "BS"},
+   {"mm": [239.9, 30.9, 258.0, 37.8], "text": "tp"},
+   {"mm": [233.0, 23.7, 253.5, 30.7], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 329 × 432 mm, 1524 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–323 mm across, 4–429 mm up",
+  "- **Outlines:** line 100 rings, 1,745 straight (3,939 mm) / 315 curved (513 mm); text 68 rings, 862 straight (1,274 mm) / 204 curved (364 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.9 @ (143.8, 233.1)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 17 in 10 lines: WARD-BECK SYSTE MS LTD · [W'El5) PI'ICGl'I!SII_...... ~ONT........c -eeeo · 2)(.A · \"TE.EX:08!5-1la:JiIIlI · M632 · POWER SUPPLY · ps · BS · tp · ht"
+ ]
+}
