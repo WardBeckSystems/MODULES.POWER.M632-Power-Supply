@@ -21,7 +21,7 @@ Wiki page: [M632](../../../../PAGES/M632.md)
 - **Words (OCR):** 53 in 47 lines: WBS · 9-104 · 300 · CANADA · CR2in4oo3 R8 21k · R6z3 · V2w · U1 · R9 · R11- · 429 · R3 40
 - **Title block:** (39, 4)–(432, 248) mm: WBS · 9-104 · 300 · CANADA · CR2in4oo3 R8 21k · R6z3 · V2w · U1 · R9 · R11- · 429 · R3 40 · ce · Vzw · Lm376 · 70735' 150 · R12 · 500 · R2229 · V ADU · Rio [K? · Jc11soop · Q2 · Tip 308 · jQQ · 2n6395
 
-Every curve, box, word and wire group: [19xx - M632 - 632-06-001 - REGULATOR BOARD (traced).json](../SCHEMATICS/19xx%20-%20M632%20-%20632-06-001%20-%20REGULATOR%20BOARD%20(traced).json) (the CAD file: `19xx - M632 - 632-06-001 - REGULATOR BOARD (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M632 - 632-06-001 - REGULATOR BOARD (traced).json](../SCHEMATICS/19xx%20-%20M632%20-%20632-06-001%20-%20REGULATOR%20BOARD%20%28traced%29.json) (the CAD file: `19xx - M632 - 632-06-001 - REGULATOR BOARD (traced).dxf`).
 
 ## Full text
 

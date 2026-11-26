@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (356, 22)–(432, 31) mm: WBS · WARD-BeCK sYsTEMS
 - **Wiring (first pass):** 74 connected wire groups from 463 runs; labelled ends: 283 mm → L k k; 226 mm → o"' *0, 238, 813 79, Hyer; 97 mm → 238, 813 79; 77 mm → WBS; 57 mm → WBS, WARD-BeCK sYsTEMS
 
-Every curve, box, word and wire group: [19xx - M632 - DOC - 712-02-104 - TEST FIXTURE SCHEMATIC NOTE BINDING PEST TERMINALS USED (traced).json](../SCHEMATICS/19xx%20-%20M632%20-%20DOC%20-%20712-02-104%20-%20TEST%20FIXTURE%20SCHEMATIC%20NOTE%20BINDING%20PEST%20TERMINALS%20USED%20(traced).json) (the CAD file: `19xx - M632 - DOC - 712-02-104 - TEST FIXTURE SCHEMATIC NOTE BINDING PEST TERMINALS USED (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M632 - DOC - 712-02-104 - TEST FIXTURE SCHEMATIC NOTE BINDING PEST TERMINALS USED (traced).json](../SCHEMATICS/19xx%20-%20M632%20-%20DOC%20-%20712-02-104%20-%20TEST%20FIXTURE%20SCHEMATIC%20NOTE%20BINDING%20PEST%20TERMINALS%20USED%20%28traced%29.json) (the CAD file: `19xx - M632 - DOC - 712-02-104 - TEST FIXTURE SCHEMATIC NOTE BINDING PEST TERMINALS USED (traced).dxf`).
 
 ## Full text
 

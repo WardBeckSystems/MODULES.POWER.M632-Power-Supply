@@ -22,7 +22,7 @@ Wiki page: [M632](../../../../PAGES/M632.md)
 - **Words (OCR):** 11 in 7 lines: WARD-BECK SYSteMS LTD_ · WBS 841 PAOGAESS AVENUE; SCARBOAOUGH; ONTARIO M1h2x4 · TeLeX; 0b5-25399 · TELEPHONE: 416/438-8550 · M632 · POWER SUPPLY · DESIGN AND MANUFACTURE Of PROFESSIONAL AUDIO EQUIPMENT
 - **Title block:** (41, 388)–(262, 423) mm: WARD-BECK SYSteMS LTD_ · WBS 841 PAOGAESS AVENUE; SCARBOAOUGH; ONTARIO M1h2x4 · TeLeX; 0b5-25399 · TELEPHONE: 416/438-8550
 
-Every curve, box, word and wire group: [19xx - M632 - Power Supply p1 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p1%20(traced).json) (the CAD file: `19xx - M632 - Power Supply p1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M632 - Power Supply p1 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p1%20%28traced%29.json) (the CAD file: `19xx - M632 - Power Supply p1 (traced).dxf`).
 
 ### Page 2
 
@@ -31,7 +31,7 @@ Every curve, box, word and wire group: [19xx - M632 - Power Supply p1 (traced).j
 - **Outlines:** line 59 rings, 921 straight (3,228 mm) / 139 curved (209 mm); text 939 rings, 7,097 straight (7,906 mm) / 2,101 curved (3,302 mm)
 - **Words (OCR):** 147 in 76 lines: WAAD-BECK SYSTEms LTD_ · TECHNICAL DATA · M632 · POWER SUPPLY · Regulated Qutput · Output Voltage: · +25 volts dc at · load currents · from · to · amperes . · Line Regulation
 
-Every curve, box, word and wire group: [19xx - M632 - Power Supply p2 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p2%20(traced).json) (the CAD file: `19xx - M632 - Power Supply p2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M632 - Power Supply p2 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p2%20%28traced%29.json) (the CAD file: `19xx - M632 - Power Supply p2 (traced).dxf`).
 
 ### Page 3
 
@@ -41,7 +41,7 @@ Every curve, box, word and wire group: [19xx - M632 - Power Supply p2 (traced).j
 - **Words (OCR):** 310 in 190 lines: WARD-BECK SYSTEmS · LTD_ · CIRcuITDESCRIPTION · M632 POWER · SUPPLY · The · M632 power supply · is used · primarily · in · intercom · systems utilizing
 - **Title block:** (20, 308)–(303, 429) mm: WARD-BECK SYSTEmS · LTD_ · CIRcuITDESCRIPTION · M632 POWER · SUPPLY · The · M632 power supply · is used · primarily · in · intercom · systems utilizing · the · M703B and · M712B intercom modules.
 
-Every curve, box, word and wire group: [19xx - M632 - Power Supply p3 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p3%20(traced).json) (the CAD file: `19xx - M632 - Power Supply p3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M632 - Power Supply p3 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p3%20%28traced%29.json) (the CAD file: `19xx - M632 - Power Supply p3 (traced).dxf`).
 
 ### Page 4
 
@@ -51,7 +51,7 @@ Every curve, box, word and wire group: [19xx - M632 - Power Supply p3 (traced).j
 - **Words (OCR):** 108 in 87 lines: WARD-BECK SysTems LTD_ · PARTS LIST · M632 POWER SUPPLY · PART NUMBER · PART DESCRIPTION · MFG · MFG · MAIN_FRAME · c1o1 · Capacitor 9600 · uF/50 · Callins
 - **Title block:** (17, 131)–(246, 426) mm: WARD-BECK SysTems LTD_ · PARTS LIST · M632 POWER SUPPLY · PART DESCRIPTION · MFG · MFG · MAIN_FRAME · c1o1 · Capacitor 9600 · uF/50 · Callins · Bridge Rectifier · CRIOI · ED I · PB6o · DSI · Pilot Lam
 
-Every curve, box, word and wire group: [19xx - M632 - Power Supply p4 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p4%20(traced).json) (the CAD file: `19xx - M632 - Power Supply p4 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M632 - Power Supply p4 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p4%20%28traced%29.json) (the CAD file: `19xx - M632 - Power Supply p4 (traced).dxf`).
 
 ### Page 5
 
@@ -60,7 +60,7 @@ Every curve, box, word and wire group: [19xx - M632 - Power Supply p4 (traced).j
 - **Outlines:** line 76 rings, 1,243 straight (3,755 mm) / 203 curved (328 mm); text 536 rings, 4,247 straight (4,776 mm) / 1,229 curved (1,954 mm)
 - **Words (OCR):** 84 in 68 lines: LTD_ · PARTS LIST · M632 POWER SUPPLY · MFG PART · NUMBER · PART DESCRIPTION · MFG · 01 · Transistor · Texas · TIpzOB · Motorola
 
-Every curve, box, word and wire group: [19xx - M632 - Power Supply p5 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p5%20(traced).json) (the CAD file: `19xx - M632 - Power Supply p5 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M632 - Power Supply p5 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p5%20%28traced%29.json) (the CAD file: `19xx - M632 - Power Supply p5 (traced).dxf`).
 
 ### Page 6
 
@@ -72,7 +72,7 @@ Every curve, box, word and wire group: [19xx - M632 - Power Supply p5 (traced).j
 - **Words (OCR):** 58 in 52 lines: ANDALL · Resistors · URLASS · LaST · COMPONINT Design · Pcb 5-104 · CrS a2,Ri · {01- · 3ioi · Rior · FOR · LAYOUT
 - **Title block:** (359, 19)–(402, 40) mm: DATE · WBS
 
-Every curve, box, word and wire group: [19xx - M632 - Power Supply p6 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p6%20(traced).json) (the CAD file: `19xx - M632 - Power Supply p6 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M632 - Power Supply p6 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p6%20%28traced%29.json) (the CAD file: `19xx - M632 - Power Supply p6 (traced).dxf`).
 
 ### Page 7
 
@@ -84,7 +84,7 @@ Every curve, box, word and wire group: [19xx - M632 - Power Supply p6 (traced).j
 - **Words (OCR):** 23 in 22 lines: cio1 · Rioi · Qi01 · Pz · Tioi · 9-104 PCB · SW101 · R9 · D51O1 · Fio1 · Ioil Meu · Apr
 - **Title block:** (331, 0)–(376, 41) mm: WBS · ENG_ · CKD: · SCALE
 
-Every curve, box, word and wire group: [19xx - M632 - Power Supply p7 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p7%20(traced).json) (the CAD file: `19xx - M632 - Power Supply p7 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M632 - Power Supply p7 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p7%20%28traced%29.json) (the CAD file: `19xx - M632 - Power Supply p7 (traced).dxf`).
 
 ### Page 8
 
@@ -96,7 +96,7 @@ Every curve, box, word and wire group: [19xx - M632 - Power Supply p7 (traced).j
 - **Words (OCR):** 53 in 47 lines: WBS · 9-104 · R7 · 300 · CRZIN4QO3 R8 27k · CANADA · R673 · #cR3IN47SOA · Vzw · R11-oo · U1 · R9
 - **Title block:** (39, 4)–(432, 248) mm: WBS · 9-104 · R7 · 300 · CRZIN4QO3 R8 27k · CANADA · R673 · #cR3IN47SOA · Vzw · R11-oo · U1 · R9 · R3 · 12 · Ce · Vzw · Lm376 · 70735 · Ri2'so · 5o0 · Rs LKs · R2229 22 · V ADU · Rio IK? · Q2 · Tip 30
 
-Every curve, box, word and wire group: [19xx - M632 - Power Supply p8 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p8%20(traced).json) (the CAD file: `19xx - M632 - Power Supply p8 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M632 - Power Supply p8 (traced).json](../MANUALS/19xx%20-%20M632%20-%20Power%20Supply%20p8%20%28traced%29.json) (the CAD file: `19xx - M632 - Power Supply p8 (traced).dxf`).
 
 ## Full text
 

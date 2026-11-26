@@ -21,7 +21,7 @@ Wiki page: [M632](../../../../PAGES/M632.md)
 - **Words (OCR):** 24 in 23 lines: cio1 · R1oi · Q1o1 · P2 · Tioi · 9-104 PCb · Sw101 · R9 · Dsi01 · Fio1 · ISSUIDATE · APP:
 - **Title block:** (331, 0)–(432, 49) mm: ISSUIDATE · APP: · WBS · ENG · M632/M6324 · CKD · POWER SUPFLY · COMPONENT LAYOUT · SCALE · ISsu · 632-06-002
 
-Every curve, box, word and wire group: [19xx - M632 - 632-06-002 - WARO-BECK SYSTEMT (traced).json](../SCHEMATICS/19xx%20-%20M632%20-%20632-06-002%20-%20WARO-BECK%20SYSTEMT%20(traced).json) (the CAD file: `19xx - M632 - 632-06-002 - WARO-BECK SYSTEMT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M632 - 632-06-002 - WARO-BECK SYSTEMT (traced).json](../SCHEMATICS/19xx%20-%20M632%20-%20632-06-002%20-%20WARO-BECK%20SYSTEMT%20%28traced%29.json) (the CAD file: `19xx - M632 - 632-06-002 - WARO-BECK SYSTEMT (traced).dxf`).
 
 ## Full text
 

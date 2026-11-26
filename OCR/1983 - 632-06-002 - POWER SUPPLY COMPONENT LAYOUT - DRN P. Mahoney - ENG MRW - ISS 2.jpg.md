@@ -33,7 +33,7 @@ Wiki page: [M632](../../../../PAGES/M632.md)
 - **Words (OCR):** 27 in 25 lines: cio1 · R1oi · Q1o1 · P2 · Tioi · 9-104 PCb · Sw101 · R9 · Dsi01 · bku · Fio1 · Issu DATE
 - **Title block:** (331, 0)–(432, 49) mm: bku · Issu DATE · REvISIOH · APP: · WBS · ENG SD · M632/M6324 · CKD · POWER SUPFLY · COMPONENT LAYOUT · SCALE · ISsu · 632-06-002
 
-Every curve, box, word and wire group: [1983 - 632-06-002 - POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2 (traced).json](../SCHEMATICS/1983%20-%20632-06-002%20-%20POWER%20SUPPLY%20COMPONENT%20LAYOUT%20-%20DRN%20P.%20Mahoney%20-%20ENG%20MRW%20-%20ISS%202%20(traced).json) (the CAD file: `1983 - 632-06-002 - POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - 632-06-002 - POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2 (traced).json](../SCHEMATICS/1983%20-%20632-06-002%20-%20POWER%20SUPPLY%20COMPONENT%20LAYOUT%20-%20DRN%20P.%20Mahoney%20-%20ENG%20MRW%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1983 - 632-06-002 - POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2 (traced).dxf`).
 
 ## Full text
 

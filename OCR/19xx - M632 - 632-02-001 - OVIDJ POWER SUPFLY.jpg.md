@@ -22,7 +22,7 @@ Wiki page: [M632](../../../../PAGES/M632.md)
 - **Words (OCR):** 62 in 52 lines: Notes; · ALL · Resistors · Y23 ARL = Cr3 92,R' · Desion · 4)Pcb 3-104 · Rioz Qioi Dsiote PE · Y For COMEONEE · AYOUT · Pcd · 5632 06-0o1 · P2
 - **Title block:** (359, 0)–(393, 34) mm: WBS · SCALE
 
-Every curve, box, word and wire group: [19xx - M632 - 632-02-001 - OVIDJ POWER SUPFLY (traced).json](../SCHEMATICS/19xx%20-%20M632%20-%20632-02-001%20-%20OVIDJ%20POWER%20SUPFLY%20(traced).json) (the CAD file: `19xx - M632 - 632-02-001 - OVIDJ POWER SUPFLY (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M632 - 632-02-001 - OVIDJ POWER SUPFLY (traced).json](../SCHEMATICS/19xx%20-%20M632%20-%20632-02-001%20-%20OVIDJ%20POWER%20SUPFLY%20%28traced%29.json) (the CAD file: `19xx - M632 - 632-02-001 - OVIDJ POWER SUPFLY (traced).dxf`).
 
 ## Full text
 
