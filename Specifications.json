@@ -1,0 +1,147 @@
+{
+ "module": "M632",
+ "title": "M632 _POWERSUPPLY",
+ "source": {
+  "file": "MANUALS/19xx - M632 - P002 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.93,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Output voltage",
+   "key": "output_voltage",
+   "text": "+25 volts dc at load amperes currents from",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    }
+   ]
+  },
+  {
+   "name": "Line regulation",
+   "key": "line_regulation",
+   "text": "25% for Line variations from 105 ac 125 volts",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "%"
+    },
+    {
+     "value": 125,
+     "unit": "volts"
+    }
+   ]
+  },
+  {
+   "name": "Load regulation",
+   "key": "load_regulation",
+   "text": "0.1% for load variations from zero full load.",
+   "quantities": [
+    {
+     "value": 0.1,
+     "unit": "%"
+    }
+   ]
+  },
+  {
+   "name": "Ripple and noise",
+   "key": "ripple_and_noise",
+   "text": "Less than 500 microvolts RMS for all Line and load conditions specified above"
+  },
+  {
+   "name": "Internal impedance",
+   "key": "internal_impedance",
+   "text": "Less than 0.05 ohm from",
+   "quantities": [
+    {
+     "value": 0.05,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Stability",
+   "key": "stability",
+   "text": "volt measured over an minutes warmup. hour period, after"
+  },
+  {
+   "name": "Protection",
+   "key": "protection",
+   "text": "Overcurrent and short circuit foldback. Overvoltage crowbar. Unregulated Output"
+  },
+  {
+   "name": "Output voltage",
+   "key": "output_voltage",
+   "text": "+32 volts dc +/-10% nominal Load currents from amperes, 115 volts ac input.",
+   "quantities": [
+    {
+     "value": 32,
+     "unit": "volts dc"
+    },
+    {
+     "value": 10,
+     "unit": "%",
+     "tolerance": true
+    },
+    {
+     "value": 115,
+     "unit": "volts ac"
+    }
+   ]
+  },
+  {
+   "name": "Ripple",
+   "key": "ripple",
+   "text": "Less than volt RMS load."
+  },
+  {
+   "name": "Ac input",
+   "key": "ac_input",
+   "text": "125 volts ac, 60 Hz, 100 VA maximum.",
+   "quantities": [
+    {
+     "value": 125,
+     "unit": "volts ac"
+    },
+    {
+     "value": 60,
+     "unit": "Hz"
+    },
+    {
+     "value": 100,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "degrees Celsius. Dimensions: wide 3.4\" high 13.7\" deep (130 mm Mm 348 mm)",
+   "quantities": [
+    {
+     "value": 3.4,
+     "unit": "\""
+    },
+    {
+     "value": 13.7,
+     "unit": "\""
+    },
+    {
+     "value": 130,
+     "unit": "mm"
+    },
+    {
+     "value": 348,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "8.8 Ib."
+  }
+ ]
+}

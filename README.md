@@ -13,6 +13,41 @@ Ward-Beck Systems M632, 1983|16. Wiki page: [M632 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 14 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [4 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M632 - P002 - 1-1.jpg](MANUALS/19xx%20-%20M632%20-%20P002%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Output voltage** | +25 volts dc at load amperes currents from |
+| **Line regulation** | 25% for Line variations from 105 ac 125 volts |
+| **Load regulation** | 0.1% for load variations from zero full load. |
+| **Ripple and noise** | Less than 500 microvolts RMS for all Line and load conditions specified above |
+| **Internal impedance** | Less than 0.05 ohm from |
+| **Stability** | volt measured over an minutes warmup. hour period, after |
+| **Protection** | Overcurrent and short circuit foldback. Overvoltage crowbar. Unregulated Output |
+| **Output voltage** | +32 volts dc +/-10% nominal Load currents from amperes, 115 volts ac input. |
+| **Ripple** | Less than volt RMS load. |
+| **Ac input** | 125 volts ac, 60 Hz, 100 VA maximum. |
+| **Ambient temperature** | degrees Celsius. Dimensions: wide 3.4&quot; high 13.7&quot; deep (130 mm Mm 348 mm) |
+| **Weight** | 8.8 Ib. |
+
+## Circuit description
+
+From [19xx - M632 - P003 - 2-1.jpg](MANUALS/19xx%20-%20M632%20-%20P003%20-%202-1.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M632 power supply used primarily the M703B and M712B intercom modules intercom systems utilizing The primary winding the power transformer Tio1 operation from 115 volt ac, 60 Hz Line. designed for Bridge rectifier CR1OI and filter capacitor C101 follow the secondary transformer winding. The unregulated dc output brought out P2, pins after passing through fuse F102. second path originating the rectifier output fed via fuse F103 Pass transistor 0101 and resistor R101 the regulated output at P2, pins 7 &amp; The LED &quot;power on indicator DS101 connected across the regulated output voltage. The primary voltage regulator circuit as weli as the overvoltage crowbar protection circuit are contained on the 9-104 regulator card_ u1 the basic integrated circuit regulator which contains the required referencing voltage and amplifiers The internal reference voltage compared with portion the 25 volt regulated output via voltage divider RB, R9 and R10. resultant error voltage pin u1 driving the current booster transistor 01 _ The appears collector output drives the main external series pass transistor 0101. remote sensing the 25 volt load voltage required cut jumper and connect P2 Pin with separate sense wire the load directly. u1 contains internal current limiting and foldback circuits. The voltage drop developed across Rioi fed U1 pin via voltage divider RL/R5. When the supply current reaches approximately 3.7 amperes, foldback current Limiting sets in. With the supply output shorted, the current limited 0.5 amperes maximum Overvoltage protection provided by crowbar' SCR 02. The sensing network consists CR3, C6, RII and R12. Should the output voltage rise approximately 27 volts due breakdown any the regulator components 02 wili fire and thus short-circuit the power supply resulting the blowing fuse F103
+
+</details>
+
+<!-- /module data -->
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._

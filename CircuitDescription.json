@@ -1,0 +1,19 @@
+{
+ "module": "M632",
+ "source": {
+  "file": "MANUALS/19xx - M632 - P003 - 2-1.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.96,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The M632 power supply used primarily the M703B and M712B intercom modules intercom systems utilizing The primary winding the power transformer Tio1 operation from 115 volt ac, 60 Hz Line. designed for Bridge rectifier CR1OI and filter capacitor C101 follow the secondary transformer winding. The unregulated dc output brought out P2, pins after passing through fuse F102. second path originating the rectifier output fed via fuse F103 Pass transistor 0101 and resistor R101 the regulated output at P2, pins 7 & The LED \"power on indicator DS101 connected across the regulated output voltage. The primary voltage regulator circuit as weli as the overvoltage crowbar protection circuit are contained on the 9-104 regulator card_ u1 the basic integrated circuit regulator which contains the required referencing voltage and amplifiers The internal reference voltage compared with portion the 25 volt regulated output via voltage divider RB, R9 and R10. resultant error voltage pin u1 driving the current booster transistor 01 _ The appears collector output drives the main external series pass transistor 0101. remote sensing the 25 volt load voltage required cut jumper and connect P2 Pin with separate sense wire the load directly. u1 contains internal current limiting and foldback circuits. The voltage drop developed across Rioi fed U1 pin via voltage divider RL/R5. When the supply current reaches approximately 3.7 amperes, foldback current Limiting sets in. With the supply output shorted, the current limited 0.5 amperes maximum Overvoltage protection provided by crowbar' SCR 02. The sensing network consists CR3, C6, RII and R12. Should the output voltage rise approximately 27 volts due breakdown any the regulator components 02 wili fire and thus short-circuit the power supply resulting the blowing fuse F103"
+   ]
+  }
+ ]
+}
