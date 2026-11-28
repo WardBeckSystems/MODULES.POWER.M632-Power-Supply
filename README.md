@@ -4,13 +4,11 @@ Ward-Beck Systems M632, 1983|16. Wiki page: [M632 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 27 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 56 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 26 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 55 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 12 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -57,8 +55,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1uFHftuCx8dPueVrxPV7ulLp3uiDCd-IO/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1uFHftuCx8dPueVrxPV7ulLp3uiDCd-IO" width="240" alt="19xx - M632 - DOC - 712-02-104 - TEST FIXTURE SCHEMATIC NOTE BINDING PEST TERMINALS USED.jpg"></a><br><sub>19xx - M632 - DOC - 712-02-104 - TEST FIXTURE SCHEMATIC NOTE BINDING PEST TERMINALS USED · <a href="SCHEMATICS/19xx%20-%20M632%20-%20DOC%20-%20712-02-104%20-%20TEST%20FIXTURE%20SCHEMATIC%20NOTE%20BINDING%20PEST%20TERMINALS%20USED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1983 - 632-06-002 - POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.jpg`
-
 ## Manuals and documents
 
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
@@ -77,7 +73,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M632 - DOC - 712-02-104 - TEST FIXTURE SCHEMATIC NOTE BINDING PEST TERMINALS USED.kicad_sch](KICAD/19xx%20-%20M632%20-%20DOC%20-%20712-02-104%20-%20TEST%20FIXTURE%20SCHEMATIC%20NOTE%20BINDING%20PEST%20TERMINALS%20USED.kicad_sch)
 - [19xx - M632 - Power Supply (2) p6.kicad_sch](KICAD/19xx%20-%20M632%20-%20Power%20Supply%20(2)%20p6.kicad_sch)
 - [M632.kicad_sym](KICAD/M632.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
