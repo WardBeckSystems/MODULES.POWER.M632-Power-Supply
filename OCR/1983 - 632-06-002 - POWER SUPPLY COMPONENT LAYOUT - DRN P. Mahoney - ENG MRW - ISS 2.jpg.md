@@ -1,5 +1,5 @@
 # 1983 - 632-06-002 - POWER SUPPLY COMPONENT LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.jpg
-Wiki page: [M632](../../../../PAGES/M632.md)
+Wiki page: [M632](../)
 
 
 - **Year:** 1983 (title block date)

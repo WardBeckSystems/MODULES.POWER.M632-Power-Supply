@@ -1,5 +1,5 @@
 # 19xx - M632 - 632-02-001 - OVIDJ POWER SUPFLY.jpg
-Wiki page: [M632](../../../../PAGES/M632.md)
+Wiki page: [M632](../)
 
 
 - **Year:** unknown (unknown)

@@ -1,6 +1,6 @@
 # M632 Power Supply · Power
 
-Ward-Beck Systems M632, 1983|16. Wiki page: [M632 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M632.html)
+Ward-Beck Systems M632, 1983|16. Wiki page: [M632 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.POWER.M632-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|

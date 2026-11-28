@@ -1,5 +1,5 @@
 # 19xx - M632 - Power Supply (2).pdf
-Wiki page: [M632](../../../../PAGES/M632.md)
+Wiki page: [M632](../)
 
 
 - **Year:** unknown (unknown)

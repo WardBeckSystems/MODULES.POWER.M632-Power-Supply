@@ -1,5 +1,5 @@
 # 19xx - M632 - 632-06-001 - REGULATOR BOARD.jpg
-Wiki page: [M632](../../../../PAGES/M632.md)
+Wiki page: [M632](../)
 
 
 - **Year:** unknown (unknown)
